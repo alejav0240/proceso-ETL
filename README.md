@@ -33,10 +33,9 @@ Sigue estos pasos para poner en marcha el proyecto en tu entorno:
 
 1.  ⬇️ **Clonar el Repositorio**:
     ```bash
-    git clone https://github.com/tu-usuario/proceso-ETL.git
+    git clone https://github.com/alejav0240/proceso-ETL.git
     cd proceso-ETL
     ```
-    *(**Nota**: Reemplaza `https://github.com/tu-usuario/proceso-ETL.git` con la URL real de tu repositorio.)*
 
 2.  ⚙️ **Configurar Bases de Datos**:
     Asegúrate de que tus instancias de SQL Server contengan:
