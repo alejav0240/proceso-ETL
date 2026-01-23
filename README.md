@@ -1,5 +1,9 @@
 # 🚀 Proceso ETL de Datos con SQL Server Integration Services (SSIS)
 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+![home preview](./images/home.png)
+
 ## Descripción del Proyecto
 
 Este proyecto se centra en la implementación de un robusto proceso ETL (Extracción, Transformación y Carga) utilizando **Microsoft SQL Server Integration Services (SSIS)**. Su objetivo primordial es orquestar la migración y consolidación de datos desde una base de datos transaccional de origen, como `BDVentas`, hacia un **Data Warehouse (DW)** de destino. Se emplea una arquitectura de dos esquemas: `staging` para la preparación, limpieza y validación intermedia de los datos, y `dw` para el almacenamiento final, optimizado para análisis y reportes.
